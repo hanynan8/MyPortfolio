@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOPCjHLA",
+      "name": "Architecture-Interior-Design-Landing-Page-",
+      "createdAt": "2025-06-26T23:15:29Z",
+      "url": "https://github.com/hanynan8/Architecture-Interior-Design-Landing-Page-",
+      "description": "A professionally crafted responsive layout for an interior and architecture firm, showcasing services, projects, and brand identity. Built with HTML5, CSS3, and JavaScript. Achieved a perfect 100/100 mobile responsiveness score via Google DevTools, ensuring flawless performance on all devices.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPB7sUw",
+      "name": "bootstrap-library",
+      "createdAt": "2025-06-25T22:32:52Z",
+      "url": "https://github.com/hanynan8/bootstrap-library",
+      "description": "Built a high-performance admin panel with custom Bootstrap 5 components, dark/light mode toggle, and optimized SCSS/Gulp workflow.  Improved Lighthouse mobile usability score from 65 → 92 by reducing CSS payload (62%) and lazy-loading dashboards. Tech: Bootstrap 5 (SCSS), Chart.js, Gulp (PurgeCSS, minification), Vanilla JS (ES6+).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPCilQw",
+      "name": "Financial-Consulting-Landing-Page",
+      "createdAt": "2025-06-26T22:44:19Z",
+      "url": "https://github.com/hanynan8/Financial-Consulting-Landing-Page",
+      "description": "Designed a professional multi-section landing page for a financial consulting service using HTML5, CSS3, and Vanilla JavaScript. Created a fully responsive layout with service highlights, client testimonials, and a custom contact form with validation. Focused on clean design, easy navigation, and fast loading for optimal user experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPCW7yg",
+      "name": "hany-sass-utils",
+      "createdAt": "2025-06-26T15:28:31Z",
+      "url": "https://github.com/hanynan8/hany-sass-utils",
+      "description": "A lightweight and modular SCSS utility library that provides responsive spacing, flexbox, grid system, typography, buttons, and color classes. Built for fast front-end development with clean code and full SCSS customization. Gulp is used for SCSS compilation and optional CSS optimization.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
