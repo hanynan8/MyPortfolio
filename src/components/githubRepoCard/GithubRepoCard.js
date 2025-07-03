@@ -9,12 +9,11 @@ export default function GithubRepoCard({ repo, theme }) {
     win.focus();
   }
 
-  let urlPage = `https://hanynan8.github.io/${repo.name}/`;
 
   return (
     <div className="repo-card-div" style={{ backgroundColor: theme.highlight }}>
       <Fade bottom duration={2000} distance="40px">
-        <div key={repo.id} onClick={() => openRepoinNewTab(urlPage)}>
+        <div key={repo.id} onClick={() => openRepoinNewTab(repo.url)}>
           <div className="repo-name-div">
             <svg
               aria-hidden="true"
