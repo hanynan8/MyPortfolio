@@ -1,6 +1,9 @@
 import React, { Component } from "react";
+import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import Button from "../../components/button/Button";
+import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
 import {
   greeting,
@@ -16,15 +19,16 @@ class Projects extends Component {
     return (
 
 
-      <div className="projects-main projects1">
+      <div className="projects-main">
+        <Header theme={theme} />
         <div className="basic-projects">
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
                 {/* <img
-											src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+                      src={require(`../../assets/images/${projectsHeader["avatar_image_path"]}`)}
+                      alt=""
+                    /> */}
                 <ProjectsImg theme={theme} />
               </div>
               <div className="projects-heading-text-div">
@@ -57,6 +61,8 @@ class Projects extends Component {
           theme={theme}
         />
 
+        <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
+        <TopButton theme={this.props.theme} />
       </div>
     );
   }
