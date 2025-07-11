@@ -4,7 +4,7 @@
       "id": "R_kgDOPCjHLA",
       "name": "Architecture-Interior-Design-Landing-Page-",
       "createdAt": "2025-06-26T23:15:29Z",
-      "url": "https://hanynan8.github.io/Architecture-Interior-Design-Landing-Page-/",
+      "url": "https://hanywebdev.github.io/Architecture-Interior-Design-Landing-Page--Publi/",
       "description": "A professionally crafted responsive layout for an interior and architecture firm, showcasing services, projects, and brand identity. Built with HTML5, CSS3, and JavaScript. Achieved a perfect 100/100 mobile responsiveness score via Google DevTools, ensuring flawless performance on all devices.",
       "isFork": false,
       "languages": [
@@ -24,10 +24,10 @@
     },
     {
       "id": "R_kgDOPB7sUw",
-      "name": "bootstrap-library",
+      "name": "E-commerce",
       "createdAt": "2025-06-25T22:32:52Z",
-      "url": "https://hanynan8.github.io/bootstrap-library/",
-      "description": "Built a high-performance admin panel with custom Bootstrap 5 components, dark/light mode toggle, and optimized SCSS/Gulp workflow.  Improved Lighthouse mobile usability score from 65 → 92 by reducing CSS payload (62%) and lazy-loading dashboards. Tech: Bootstrap 5 (SCSS), Chart.js, Gulp (PurgeCSS, minification), Vanilla JS (ES6+).",
+      "url": "https://e-commerce-vert-xi-96.vercel.app",
+      "description": "Developed a modern and responsive ecommerce website built with Next.js, featuring product search, sorting, cart management, and dark/light mode.Developed by Hany Younan using React and DaisyUI.",
       "isFork": false,
       "languages": [
         {
@@ -35,8 +35,8 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "JavaScript",
@@ -71,7 +71,7 @@
       "name": "mySaaS",
       "createdAt": "2025-06-26T15:28:31Z",
       "url": "https://saa-s-seven-kappa.vercel.app/",
-      "description": "A modern, responsive, and customizable SaaS template built with React and Material-UI. Ideal for startups, dashboards, and admin panels",
+      "description": "Developed a modern, responsive, and customizable SaaS template built with React and Material-UI. Ideal for startups, dashboards, and admin panels",
       "isFork": false,
       "languages": [
         {
@@ -87,6 +87,30 @@
           "iconifyClass": "logos-css-3"
         }
       ]
+    },
+        {
+      "id": "R_kgDOPB7sUw",
+      "name": "bootstrap-library",
+      "createdAt": "2025-06-25T22:32:52Z",
+      "url": "https://hanynan8.github.io/bootstrap-library/",
+      "description": "Built a high-performance admin panel with custom Bootstrap 5 components, dark/light mode toggle, and optimized SCSS/Gulp workflow.  Improved Lighthouse mobile usability score from 65 → 92 by reducing CSS payload (62%) and lazy-loading dashboards. Tech: Bootstrap 5 (SCSS), Chart.js, Gulp (PurgeCSS, minification), Vanilla JS (ES6+).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
     }
   ]
 }
+
+
