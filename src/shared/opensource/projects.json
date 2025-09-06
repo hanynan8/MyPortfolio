@@ -1,77 +1,103 @@
 {
   "data": [
     {
-      "id": "R_kgDOPCjHLA",
-      "name": "Architecture-Interior-Design-Landing-Page-",
-      "createdAt": "2025-06-26T23:15:29Z",
-      "url": "https://hanywebdev.github.io/Architecture-Interior-Design-Landing-Page--Publi/",
-      "description": "A professionally crafted responsive layout for an interior and architecture firm, showcasing services, projects, and brand identity. Built with HTML5, CSS3, and JavaScript. Achieved a perfect 100/100 mobile responsiveness score via Google DevTools, ensuring flawless performance on all devices.",
+      "id": "R_kgDOTECHLAP",
+      "name": "TechLap Elite",
+      "createdAt": "2025-09-07T22:32:52Z",
+      "url": "https://lap-tech-five.vercel.app/",
+      "description": "I developed a dynamic ecommerce platform for showcasing electronics using Next.js and MongoDB. It includes 22 fully dynamic pages for product listings, categories, and details, optimized for scalability, responsiveness, and modern UX.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
-      ]
+      ],
+      "image": "https://raw.githubusercontent.com/hanynan8/forImages/refs/heads/main/Screenshot%20(786).png"
     },
     {
-      "id": "R_kgDOPB7sUw",
+      "id": "R_kgDOPB7sUw-restaurant",
+      "name": "Online-Restaurant",
+      "createdAt": "2025-08-25T22:32:52Z",
+      "url": "https://restaurant-ten-sage.vercel.app/",
+      "description": "I developed a dynamic restaurant storefront and admin using Next.js and MongoDB. The project includes dynamic menus, product pages, and admin features, optimized for performance and mobile UX.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(806).png?raw=true"
+    },
+    {
+      "id": "R_kgDOPB7sUw-1",
       "name": "E-commerce",
       "createdAt": "2025-06-25T22:32:52Z",
       "url": "https://e-commerce-vert-xi-96.vercel.app",
-      "description": "Developed a modern and responsive ecommerce website built with Next.js, featuring product search, sorting, cart management, and dark/light mode.Developed by Hany Younan using React and DaisyUI.",
+      "description": "I developed a modern, responsive ecommerce site with Next.js and DaisyUI. Implemented product search, sorting, cart management, and dark/light mode for an improved shopping experience.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
         },
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
-      ]
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(612).png?raw=true"
     },
     {
-      "id": "R_kgDOPCilQw",
-      "name": "Financial-Consulting-Landing-Page",
-      "createdAt": "2025-06-26T22:44:19Z",
-      "url": "https://hanynan8.github.io/Financial-Consulting-Landing-Page/",
-      "description": "Designed a professional multi-section landing page for a financial consulting service using HTML5, CSS3, and Vanilla JavaScript. Created a fully responsive layout with service highlights, client testimonials, and a custom contact form with validation. Focused on clean design, easy navigation, and fast loading for optimal user experience.",
+      "id": "R_kgDOPB7sUw-2",
+      "name": "CodeOrigins",
+      "createdAt": "2025-06-25T22:32:52Z",
+      "url": "https://code-origins.vercel.app/",
+      "description": "I developed this portfolio project using Next.js, Tailwind CSS, and MongoDB. It simulates a modern software company site with Home, About, Portfolio, and Contact pages.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
-      ]
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(791).png?raw=true"
     },
     {
       "id": "R_kgDOPCW7yg",
       "name": "mySaaS",
       "createdAt": "2025-06-26T15:28:31Z",
       "url": "https://saa-s-seven-kappa.vercel.app/",
-      "description": "Developed a modern, responsive, and customizable SaaS template built with React and Material-UI. Ideal for startups, dashboards, and admin panels",
+      "description": "I developed a customizable SaaS template with React and Material-UI, suitable for startups, dashboards, and admin panels with a modern responsive layout.",
       "isFork": false,
       "languages": [
         {
@@ -83,22 +109,23 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
         }
-      ]
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(502).png?raw=true"
     },
-        {
-      "id": "R_kgDOPB7sUw",
-      "name": "bootstrap-library",
-      "createdAt": "2025-06-25T22:32:52Z",
-      "url": "https://hanynan8.github.io/bootstrap-library/",
-      "description": "Built a high-performance admin panel with custom Bootstrap 5 components, dark/light mode toggle, and optimized SCSS/Gulp workflow.  Improved Lighthouse mobile usability score from 65 → 92 by reducing CSS payload (62%) and lazy-loading dashboards. Tech: Bootstrap 5 (SCSS), Chart.js, Gulp (PurgeCSS, minification), Vanilla JS (ES6+).",
+    {
+      "id": "R_kgDOPCjHLA",
+      "name": "Architecture-Interior-Design-Landing-Page",
+      "createdAt": "2025-06-26T23:15:29Z",
+      "url": "https://hanywebdev.github.io/Architecture-Interior-Design-Landing-Page--Publi/",
+      "description": "I developed a responsive landing page for an interior & architecture firm using HTML5, Tailwind CSS, and JavaScript. The layout highlights services, projects, and brand identity and achieved a 100/100 mobile responsiveness score.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
         },
         {
           "name": "HTML",
@@ -108,19 +135,43 @@
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
-      ]
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(522).png?raw=true"
     },
+    {
+      "id": "R_kgDOPCilQw",
+      "name": "Financial-Consulting-Landing-Page",
+      "createdAt": "2025-06-26T22:44:19Z",
+      "url": "https://hanynan8.github.io/Financial-Consulting-Landing-Page/",
+      "description": "I developed a professional multi-section landing page for a financial consulting service using HTML5, Tailwind CSS, and Vanilla JS. Includes service highlights, client testimonials, and a validated contact form.",
+      "isFork": false,
+      "languages": [
         {
-      "id": "R_kgDOPB7sUw",
-      "name": "Online-Restaurant",
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(529).png?raw=true"
+    },
+    {
+      "id": "R_kgDOPB7sUw-MF",
+      "name": "MF Group",
       "createdAt": "2025-08-25T22:32:52Z",
       "url": "https://restaurant-ten-sage.vercel.app/",
-      "description": "Built a high-performance admin panel with custom Bootstrap 5 components, dark/light mode toggle, and optimized SCSS/Gulp workflow.  Improved Lighthouse mobile usability score from 65 → 92 by reducing CSS payload (62%) and lazy-loading dashboards. Tech: Bootstrap 5 (SCSS), Chart.js, Gulp (PurgeCSS, minification), Vanilla JS (ES6+).",
+      "description": "I developed a responsive website for architectural facades and interfaces using HTML5, Tailwind CSS, and JavaScript. Focused on showcasing projects, galleries, and contact flow with a clean UI.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
         },
         {
           "name": "HTML",
@@ -130,9 +181,31 @@
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
-      ]
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(795).png?raw=true"
+    },
+    {
+      "id": "R_kgDOPB7sUw-KR",
+      "name": "Kremora",
+      "createdAt": "2025-08-25T22:32:52Z",
+      "url": "https://restaurant-ten-sage.vercel.app/",
+      "description": "I developed a sweets bakery website using HTML5, Tailwind CSS, and JavaScript. The site highlights products, galleries, and order contact forms with a delightful responsive design.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "vscode-icons:file-type-tailwind"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(794).png?raw=true"
     }
   ]
 }
-
-

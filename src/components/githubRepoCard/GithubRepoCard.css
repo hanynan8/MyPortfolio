@@ -4,11 +4,47 @@
   padding: 2rem;
   cursor: pointer;
   flex: 1 1 25%;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, transform 0.12s ease;
 }
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
+  transform: translateY(-6px);
 }
 
+/* صورة المشروع */
+.repo-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+/* placeholder لو مفيش صورة */
+.repo-image-placeholder {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #e2e8f0 0%, #cbd5e1 100%);
+  color: #3b4252;
+  font-family: "Google Sans Regular";
+  text-align: center;
+  padding: 1rem;
+}
+.repo-image-placeholder-text {
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+/* بقية الستايلات الموجودة عندك أصلًا */
 .repo-stats {
   display: flex;
   -webkit-box-pack: justify;
@@ -65,16 +101,17 @@
   margin-right: 0.3rem;
 }
 
+/* لو عايز تحافظ على قص الوصف لسطرين زي قبل: خلي الأسطر دي كما هي */
 .repo-description {
   overflow: hidden;
   text-align: left;
   display: -webkit-box;
   font-family: "Google Sans Regular";
-  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   margin-top: 0.8rem;
 }
 
+/* تفاصيل أسفل البطاقة */
 .repo-details {
   display: flex;
   flex-direction: row;
