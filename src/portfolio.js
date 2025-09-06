@@ -24,7 +24,8 @@ const greeting = {
   nickname: "Hany.dev",
   subTitle:
     "A dedicated front-end developer who is passionate about crafting complete and user-friendly web experiences, aiming to build scalable and impactful digital solutions that make a real difference.",
-  resumeLink: "https://drive.google.com/file/d/1_TciI04zITeu5BY0UYxD0skYnTq_FTC9/view?usp=sharing",
+  resumeLink:
+    "https://drive.google.com/file/d/15xNH3x_CojqPPQhX1i1syUU5l2Gl0RA8/view?usp=sharing",
   portfolio_repository: "https://github.com/hanynan8/hanynan8.github.io",
   githubProfile: "https://github.com/hanynan8",
 };
