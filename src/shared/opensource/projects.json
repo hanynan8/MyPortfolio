@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOTECHLAP",
-      "name": "TechLap Elite",
-      "createdAt": "2025-09-07T22:32:52Z",
-      "url": "https://lap-tech-five.vercel.app/",
-      "description": "I developed a dynamic ecommerce platform for showcasing electronics using Next.js and MongoDB. It includes 22 fully dynamic pages for product listings, categories, and details, optimized for scalability, responsiveness, and modern UX.",
+      "id": "R_kgDOEDUMASTER",
+      "name": "EduMaster",
+      "createdAt": "2025-09-20T10:15:00Z",
+      "url": "https://edumaster365.com",
+      "description": "I developed the official website for EduMaster, an educational company in Madrid, Spain. It dynamically displays courses and lessons with a secure login system, letting students follow content easily while the admin dashboard lets the manager add courses, manage users, and update content.",
       "isFork": false,
       "languages": [
         {
@@ -17,41 +17,18 @@
           "iconifyClass": "vscode-icons:file-type-mongo"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
         }
       ],
-      "image": "https://raw.githubusercontent.com/hanynan8/forImages/refs/heads/main/Screenshot%20(786).png"
-    },
-    {
-      "id": "R_kgDOPB7sUw-restaurant",
-      "name": "Online-Restaurant",
-      "createdAt": "2025-08-25T22:32:52Z",
-      "url": "https://restaurant-ten-sage.vercel.app/",
-      "description": "I developed a dynamic restaurant storefront and admin using Next.js and MongoDB. The project includes dynamic menus, product pages, and admin features, optimized for performance and mobile UX.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Next.js",
-          "iconifyClass": "vscode-icons:file-type-next"
-        },
-        {
-          "name": "MongoDB",
-          "iconifyClass": "vscode-icons:file-type-mongo"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ],
-      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(806).png?raw=true"
+      "image": "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(1912).png?raw=true"
     },
     {
       "id": "R_kgDOPB7sUw-umkhater",
       "name": "UmKhater",
       "createdAt": "2025-08-25T22:32:52Z",
       "url": "https://umkhater.com",
-      "description": "I developed a UmKhater WebSite is a full-stack website built with Next.js, Node.js, and MongoDB, showcasing Um Khater’s homemade meals with an online menu and admin dashboard for managing content.",
+      "description": "I developed the official website for UmKhater Kitchen restaurant in Dubai, UAE. It dynamically displays the menu with meal categorization and quick search, supports online orders, and includes a full dashboard for managing the menu, prices, and orders in real time.",
       "isFork": false,
       "languages": [
         {
@@ -70,57 +47,69 @@
       "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(1432).png?raw=true"
     },
     {
-      "id": "R_kgDOPB7sUw-1",
-      "name": "E-commerce",
-      "createdAt": "2025-06-25T22:32:52Z",
-      "url": "https://e-commerce-vert-xi-96.vercel.app",
-      "description": "I developed a modern, responsive ecommerce site with Next.js and DaisyUI. Implemented product search, sorting, cart management, and dark/light mode for an improved shopping experience.",
+      "id": "R_kgDODOHABAZAAR",
+      "name": "DOHA Bazaar",
+      "createdAt": "2025-09-10T09:00:00Z",
+      "url": "https://bazardoha.vercel.app/",
+      "description": "I developed the official ecommerce store for DOHA Bazaar, an accessories retailer. It dynamically displays products with advanced filtering and search, supports managing large product catalogs, and includes a powerful dashboard for adding, editing, and deleting products with a modern, fast design.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Tailwind CSS",
-          "iconifyClass": "vscode-icons:file-type-tailwind"
-        },
         {
           "name": "Next.js",
           "iconifyClass": "vscode-icons:file-type-next"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
         }
       ],
-      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(612).png?raw=true"
+      "image": "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(1972).png?raw=true"
     },
     {
-      "id": "R_kgDOPB7sUw-2",
-      "name": "CodeOrigins",
-      "createdAt": "2025-06-25T22:32:52Z",
-      "url": "https://code-origins.vercel.app/",
-      "description": "I developed this portfolio project using Next.js, Tailwind CSS, and MongoDB. It simulates a modern software company site with Home, About, Portfolio, and Contact pages.",
+      "id": "R_kgDOTECHLAP",
+      "name": "LapTech",
+      "createdAt": "2025-09-07T22:32:52Z",
+      "url": "https://lap-tech-five.vercel.app/",
+      "description": "I developed a fully integrated ecommerce store for showcasing and selling tech devices and accessories, built to support 5,000+ products. It features an advanced filtering system, precise search, fast performance, and a free admin dashboard for managing products and inventory.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Tailwind CSS",
-          "iconifyClass": "vscode-icons:file-type-tailwind"
-        },
         {
           "name": "Next.js",
           "iconifyClass": "vscode-icons:file-type-next"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
         }
       ],
-      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(791).png?raw=true"
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(786).png?raw=true",
+      "images": [
+        "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(786).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(817).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(816).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(818).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(820).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(822).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(825).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(827).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(828).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(829).png?raw=true"
+      ]
     },
     {
-      "id": "R_kgDOPCW7yg",
-      "name": "mySaaS",
-      "createdAt": "2025-06-26T15:28:31Z",
-      "url": "https://saa-s-seven-kappa.vercel.app/",
-      "description": "I developed a customizable SaaS template with React and Material-UI, suitable for startups, dashboards, and admin panels with a modern responsive layout.",
+      "id": "R_kgDOPB7sUw-restaurant",
+      "name": "Online Restaurant",
+      "createdAt": "2025-08-25T22:32:52Z",
+      "url": "https://restaurant-ten-sage.vercel.app/",
+      "description": "I developed a modern restaurant website that showcases menus and dishes attractively, with an online ordering and booking system and filters for quick access to dishes. Includes a dashboard for managing menus and offers.",
       "isFork": false,
       "languages": [
         {
@@ -128,58 +117,115 @@
           "iconifyClass": "logos-react"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ],
+      "image": "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(729).png?raw=true",
+      "images": [
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(729).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(730).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(731).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(736).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(737).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(735).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(732).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(734).png?raw=true",
+        "https://github.com/hanynan8/CodeOrigins/blob/main/images/Screenshot%20(733).png?raw=true"
+      ]
+    },
+    {
+      "id": "R_kgDOPB7sUw-1",
+      "name": "E-commerce",
+      "createdAt": "2025-06-25T22:32:52Z",
+      "url": "https://e-commerce-vert-xi-96.vercel.app",
+      "description": "I developed a fully integrated ecommerce store for clothing with a modern style, allowing filtering by size, color, and price, plus a professional dashboard for managing inventory and orders.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
         },
         {
           "name": "Tailwind CSS",
           "iconifyClass": "vscode-icons:file-type-tailwind"
         }
       ],
-      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(502).png?raw=true"
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(612).png?raw=true"
     },
     {
-      "id": "R_kgDOPCjHLA",
-      "name": "Architecture-Interior-Design-Landing-Page",
-      "createdAt": "2025-06-26T23:15:29Z",
-      "url": "https://hanywebdev.github.io/Architecture-Interior-Design-Landing-Page--Publi/",
-      "description": "I developed a responsive landing page for an interior & architecture firm using HTML5, Tailwind CSS, and JavaScript. The layout highlights services, projects, and brand identity and achieved a 100/100 mobile responsiveness score.",
+      "id": "R_kgDOPB7sUw-2",
+      "name": "CodeLegacy",
+      "createdAt": "2025-06-25T22:32:52Z",
+      "url": "https://codelegacy.tech/",
+      "description": "I developed CodeLegacy's official website, showcasing our services, projects, team, and quick contact options, with a clean design that presents the brand identity, testimonials, and technical service offerings.",
       "isFork": false,
       "languages": [
         {
-          "name": "Tailwind CSS",
-          "iconifyClass": "vscode-icons:file-type-tailwind"
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(791).png?raw=true"
+    },
+    {
+      "id": "R_kgDOPCjHLA",
+      "name": "Newton",
+      "createdAt": "2025-06-26T23:15:29Z",
+      "url": "https://hanywebdev.github.io/Architecture-Interior-Design-Landing-Page--Publi/",
+      "description": "I developed Newton, a website showcasing interior and architectural design services with a project gallery, service descriptions covering interior design, space planning, and material consulting, plus a consultation booking form.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
         }
       ],
       "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(522).png?raw=true"
     },
     {
       "id": "R_kgDOPCilQw",
-      "name": "Financial-Consulting-Landing-Page",
+      "name": "InvSmart",
       "createdAt": "2025-06-26T22:44:19Z",
       "url": "https://hanynan8.github.io/Financial-Consulting-Landing-Page/",
-      "description": "I developed a professional multi-section landing page for a financial consulting service using HTML5, Tailwind CSS, and Vanilla JS. Includes service highlights, client testimonials, and a validated contact form.",
+      "description": "I developed InvSmart, a financial and investment consulting platform supporting investment product descriptions, client profiles, simplified financial reports, and initial integration with banking interfaces via API forms and reports.",
       "isFork": false,
       "languages": [
         {
-          "name": "Tailwind CSS",
-          "iconifyClass": "vscode-icons:file-type-tailwind"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Django",
+          "iconifyClass": "logos-django-icon"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
         }
       ],
       "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(529).png?raw=true"
@@ -189,20 +235,20 @@
       "name": "Kremora",
       "createdAt": "2025-08-25T22:32:52Z",
       "url": "https://hanynan8.github.io/test-Sweety/",
-      "description": "I developed a sweets bakery website using HTML5, Tailwind CSS, and JavaScript. The site highlights products, galleries, and order contact forms with a delightful responsive design.",
+      "description": "I developed Kremora, an online sweets store showcasing multiple sweet categories with detailed product pages, a shopping cart, and an order/booking form, with a lovely design focused on photos and seasonal products.",
       "isFork": false,
       "languages": [
         {
-          "name": "Tailwind CSS",
-          "iconifyClass": "vscode-icons:file-type-tailwind"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Django",
+          "iconifyClass": "logos-django-icon"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
         }
       ],
       "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(794).png?raw=true"
@@ -211,17 +257,17 @@
       "id": "R_kgDOPB7sUw-MF",
       "name": "MF Group",
       "createdAt": "2025-08-25T22:32:52Z",
-      "url": "hhttps://hanynan8.github.io/test-MFGroup/",
-      "description": "I developed a responsive website for architectural facades and interfaces using HTML5, Tailwind CSS, and JavaScript. Focused on showcasing projects, galleries, and contact flow with a clean UI.",
+      "url": "https://hanynan8.github.io/test-MFGroup/",
+      "description": "I developed a portfolio and services showcase website for MF Group, an architectural facades company, featuring a project photo gallery, service descriptions, and a contact form for consultations and project requests.",
       "isFork": false,
       "languages": [
         {
-          "name": "Tailwind CSS",
-          "iconifyClass": "vscode-icons:file-type-tailwind"
-        },
-        {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         },
         {
           "name": "JavaScript",
@@ -229,6 +275,98 @@
         }
       ],
       "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(795).png?raw=true"
+    },
+    {
+      "id": "R_kgDOPCW7yg",
+      "name": "WaVer",
+      "createdAt": "2025-06-26T15:28:31Z",
+      "url": "https://saa-s-seven-kappa.vercel.app/",
+      "description": "I developed WaVer, a SaaS platform for managing projects and tasks with kanban boards, teams, time tracking, and notifications, suitable for small and medium teams with collaboration and file-sharing features.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "WordPress",
+          "iconifyClass": "logos-wordpress-icon"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(502).png?raw=true"
+    },
+    {
+      "id": "R_kgDOPORTFOLIO",
+      "name": "Personal Portfolio",
+      "createdAt": "2025-07-05T12:00:00Z",
+      "url": "https://my-portfolio-tau-six-33.vercel.app/",
+      "description": "I developed a personal portfolio for showcasing projects, skills, resume, and contact links, with a simple, fast design for visitors and employers to view experience and practical examples.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django-icon"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(483).png?raw=true"
+    },
+    {
+      "id": "R_kgDOHABARAPRINT",
+      "name": "Habara Print",
+      "createdAt": "2025-07-20T14:30:00Z",
+      "url": "https://print-your-paper.vercel.app/",
+      "description": "I developed Habara Print, a platform for ordering printing services online, including file uploads, print option selection, and order tracking, targeting small and medium print shops.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(802).png?raw=true"
+    },
+    {
+      "id": "R_kgDOHRDESIGN",
+      "name": "HR Manager Job Description",
+      "createdAt": "2025-07-28T16:45:00Z",
+      "url": "https://hr-design.vercel.app/",
+      "description": "I developed a professional job description page for an HR Manager position, presenting requirements, responsibilities, benefits, and a contact form for candidates to apply.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next.js",
+          "iconifyClass": "vscode-icons:file-type-next"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "vscode-icons:file-type-mongo"
+        }
+      ],
+      "image": "https://github.com/hanynan8/forImages/blob/main/Screenshot%20(803).png?raw=true"
     }
   ]
 }
