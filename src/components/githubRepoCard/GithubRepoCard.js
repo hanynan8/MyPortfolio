@@ -86,12 +86,11 @@ function ImageSliderModal({ images, title, isOpen, onClose }) {
           )}
           <img
             src={images[currentIndex]}
-            alt={`Image ${currentIndex + 1}`}
+            alt={`${currentIndex + 1} of ${images.length}`}
             className="ghslider-image"
             style={{ opacity: isLoading ? 0 : 1 }}
             onLoad={() => setIsLoading(false)}
           />
-
           <button
             className="ghslider-arrow ghslider-arrow-left"
             onClick={goLeft}
@@ -195,7 +194,10 @@ export default function GithubRepoCard({ repo, theme }) {
 
               {hasMultipleImages && (
                 <span className="repo-image-count-badge">
-                  📷 {images.length} photos
+                  <span role="img" aria-label="camera">
+                    📷
+                  </span>{" "}
+                  {images.length} photos
                 </span>
               )}
             </div>
