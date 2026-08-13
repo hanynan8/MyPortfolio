@@ -53,11 +53,10 @@ npm run build
 
 📧 Email: hanynan8@gmail.com
 
-💼 LinkedIn: linkedin.com/in/hany-younan-649856371
+💼 LinkedIn: https://www.linkedin.com/in/hany-younan-5b7466372/
 
 🧑‍💻 Upwork: upwork.com/~01999a6834f779f66d
 
 📄 License
 This project is licensed under the MIT License.
-
-
+```

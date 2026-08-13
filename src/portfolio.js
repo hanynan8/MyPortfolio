@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A dedicated front-end developer who is passionate about crafting complete and user-friendly web experiences, aiming to build scalable and impactful digital solutions that make a real difference.",
   resumeLink:
-    "https://drive.google.com/file/d/15xNH3x_CojqPPQhX1i1syUU5l2Gl0RA8/view?usp=sharing",
+    "https://drive.google.com/file/d/1ihdoh0aBbcIcGPJPh9ZIyMh957zzfcg8/view?usp=sharing",
   portfolio_repository: "https://github.com/hanynan8/hanynan8.github.io",
   githubProfile: "https://github.com/hanynan8",
 };
@@ -39,7 +39,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/hany-younan-649856371/",
+    link: "https://www.linkedin.com/in/hany-younan-5b7466372/",
     fontAwesomeIcon: "fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
@@ -51,13 +51,13 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/hany.nan.752",
+    link: "https://www.facebook.com/CodeLegacy1",
     fontAwesomeIcon: "fa-facebook-f",
     backgroundColor: "#1877F2",
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/hany._younan/?__pwa=1",
+    link: "https://www.instagram.com/_codelegacy_/",
     fontAwesomeIcon: "fa-instagram",
     backgroundColor: "#E4405F",
   },
