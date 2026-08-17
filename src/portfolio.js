@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Hany's Portfolio",
   description:
-    "A passionate web developer skilled in building modern and responsive web applications using React and other technologies.",
+    "A MERN Stack Developer skilled in building modern, responsive, and database-driven web applications using React, Next.js, Node.js, Express, and MongoDB.",
   og: {
     title: "Hany Younan Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "HanyYounan",
   nickname: "Hany.dev",
   subTitle:
-    "A dedicated front-end developer who is passionate about crafting complete and user-friendly web experiences, aiming to build scalable and impactful digital solutions that make a real difference.",
+    "A dedicated MERN Stack Developer who builds complete, database-driven web experiences from front to back — crafting responsive React/Next.js interfaces and pairing them with secure Node.js, Express, and MongoDB backends to deliver scalable, impactful digital solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1ihdoh0aBbcIcGPJPh9ZIyMh957zzfcg8/view?usp=sharing",
   portfolio_repository: "https://github.com/hanynan8/hanynan8.github.io",
@@ -69,9 +69,10 @@ const skills = {
       title: "Front-End Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive and accessible web interfaces using HTML5, CSS3, and SCSS",
-        "⚡ Styling and layout with Bootstrap and custom CSS architecture",
-        "⚡ Implementing dynamic functionality with JavaScript, React, and Vue.js",
+        "⚡ Building responsive, accessible, high-performance UIs with HTML5, CSS3/SCSS, JavaScript (ES6+), and TypeScript",
+        "⚡ Developing production React.js (Hooks, Router) and Next.js (Pages, API Routes, SSR/SSG) applications",
+        "⚡ Styling with Tailwind CSS & Bootstrap 5, and adding motion with Framer Motion",
+        "⚡ Managing state and data flow with Redux basics and Axios API integration",
         "⚡ Version control and collaboration using Git & GitHub",
       ],
       softwareSkills: [
@@ -97,6 +98,13 @@ const skills = {
           },
         },
         {
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "#06B6D4",
+          },
+        },
+        {
           skillName: "Bootstrap",
           fontAwesomeClassname: "simple-icons:bootstrap",
           style: {
@@ -111,6 +119,13 @@ const skills = {
           },
         },
         {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            color: "#3178C6",
+          },
+        },
+        {
           skillName: "React",
           fontAwesomeClassname: "simple-icons:react",
           style: {
@@ -118,11 +133,31 @@ const skills = {
           },
         },
         {
+          skillName: "Next.js",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
           skillName: "Vue.js",
           fontAwesomeClassname: "ion-logo-vue",
           style: { color: "#4FC08D" },
         },
-
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "simple-icons:redux",
+          style: {
+            color: "#764ABC",
+          },
+        },
+        {
+          skillName: "Framer Motion",
+          fontAwesomeClassname: "simple-icons:framer",
+          style: {
+            color: "#0055FF",
+          },
+        },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -135,6 +170,61 @@ const skills = {
           fontAwesomeClassname: "simple-icons:github",
           style: {
             color: "#181717",
+          },
+        },
+      ],
+    },
+    {
+      title: "Back-End Development",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Building RESTful APIs with Node.js (async/await, event-driven, streams) and Express.js (routing, middleware)",
+        "⚡ Designing schemas, indexing, and managing data with MongoDB & Mongoose ODM",
+        "⚡ Implementing authentication and secure server-side logic via Next.js API Routes",
+        "⚡ Building real-time CRUD admin dashboards backed by MongoDB",
+        "⚡ Full-stack integration: connecting React/Next.js front-ends to Node.js & MongoDB back-ends, deployed on Vercel",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Node.js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "Express",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "Mongoose",
+          fontAwesomeClassname: "simple-icons:mongoose",
+          style: {
+            color: "#880000",
+          },
+        },
+        {
+          skillName: "Next.js API Routes",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Vercel",
+          fontAwesomeClassname: "simple-icons:vercel",
+          style: {
+            color: "#000000",
           },
         },
       ],
@@ -413,7 +503,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects showcase my skills in modern front-end technologies, focusing on creating responsive and user-friendly web interfaces. I have experience building interactive applications with a strong emphasis on performance and user experience.",
+    "My projects showcase my skills as a MERN Stack developer, focusing on building dynamic, database-driven web applications with responsive React/Next.js interfaces backed by secure Node.js, Express, and MongoDB APIs. I have experience building admin dashboards with real-time CRUD, authentication, and a strong emphasis on performance and user experience.",
 };
 
 const publicationsHeader = {};
@@ -428,7 +518,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "image.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React Front-End Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with MERN Stack (MongoDB, Express, React/Next.js, Node.js) Development.",
   },
   blogSection: {},
 
